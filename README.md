@@ -1,12 +1,4 @@
-<div id="header" align="center">
-  <img src="https://monophy.com/media/hqOmvozcn0MVAzxNpF/monophy.gif" width="100"/> <br>
-  I'm Ridzmahal Tajul <br>
-  and I'm a Web Developer ✨
-</div> 
- 
- ---
- 
-### :woman_technologist: About Me :
+### <img src="https://media3.giphy.com/media/6NIC5qDsDC5uE/giphy.gif?cid=ecf05e47mnz4i2oda35upzr04gtkczjrqv5ro47hwm4i0jo3&rid=giphy.gif&ct=s" width="50" /> I'm Ridzmahal ✨
  
 I am a Full Stack Developer from Philippines.
 
